@@ -1,7 +1,7 @@
-## Welcome to University of Exeter RSE 👋
+# Welcome to University of Exeter RSE 👋
 The University has created a centralised Research Software Engineering (RSE) group that will assist our research community with complex and bespoke research software needs.
 
-# What are RSEs?
+## What are RSEs?
 
 The primary role of an RSE is to develop, maintain and extend research software as an integral part of the research process. RSEs bring dual expertise in professional software development practices and domain speciﬁc knowledge, which enables them to produce reliable, eﬃcient and maintainable software for research. Professional software engineering aids impact through the continued use of software tools after the research project has ended.
 
@@ -9,12 +9,11 @@ The use of research software has spread from traditional applications such as nu
 
 RSEs work with researchers from all disciplines to gain an understanding of the problems they face, and then develop, maintain and extend software to provide the answers.
 
-# How can I engage with the RSE team?
+## How can I engage with the RSE team?
 
-We are working to build a network of RSEs and aligned research computing roles across the institution and would love to hear from staff performing similar roles at Exeter. We are also happy to offer free advice on your software programme challenges. Please get in touch via [email](mailto:rse-group@exeter.ac.uk) or [Slack](https://idsai-rf-rse.slack.com/join/signup#/domain-signup) (Please note only exeter.ac.uk email addresses have been approved to join).
+We are working to build a network of RSEs and aligned research computing roles across the institution and would love to hear from staff performing similar roles at Exeter. We are also happy to offer free advice on your software programme challenges. Please get in touch via [email](mailto:rse-group@exeter.ac.uk) or [Slack](https://idsai-rf-rse.slack.com/join/signup#/domain-signup) (please note only exeter.ac.uk email addresses have been approved to join).
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
