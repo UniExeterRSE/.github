@@ -13,6 +13,8 @@ RSEs work with researchers from all disciplines to gain an understanding of the 
 
 We are working to build a network of RSEs and aligned research computing roles across the institution and would love to hear from staff performing similar roles at Exeter. We are also happy to offer free advice on your software programme challenges. Please get in touch via [email](mailto:rse-group@exeter.ac.uk) or [Slack](https://idsai-rf-rse.slack.com/join/signup#/domain-signup) (please note only exeter.ac.uk email addresses have been approved to join).
 
+For those interested in developing their skills, we are helping deliver the *Coding for Reproducible Research* workshops. You can find more information about the initiative [here](https://uniexeterrse.github.io/workshop-homepage/).
+
 <!--
 **Here are some ideas to get you started:**
 
